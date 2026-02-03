@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "area": 45,
+      "rooms": 1,
+      "district": "Есильский",
+      "address": "Астана, Есильский район, ул. Туркестан 10",
+      "furniture": ["Кухня", "Шкаф", "Кровать"],
+      "image": "/images/house1.jpg"
+    },
+    {
+      "id": 2,
+      "area": 70,
+      "rooms": 2,
+      "district": "Алматинский",
+      "address": "Астана, Алматинский район, пр. Тауелсиздик 25",
+      "furniture": ["Диван", "Стол", "Стиралка"],
+      "image": "/images/house2.jpg"
+    },
+    {
+      "id": 3,
+      "area": 62,
+      "rooms": 2,
+      "district": "Сарыаркинский",
+      "address": "Астана, Сарыаркинский район, ул. Республики 15",
+      "furniture": ["Кухня", "Диван"],
+      "image": "/images/house3.jpg"
+    },
+    {
+      "id": 4,
+      "area": 88,
+      "rooms": 3,
+      "district": "Байконур",
+      "address": "Астана, Байконур район, ул. Бейбитшилик 8",
+      "furniture": ["Шкаф", "Кровать", "Стол"],
+      "image": "/images/house4.jpg"
+    },
+    {
+      "id": 5,
+      "area": 35,
+      "rooms": 1,
+      "district": "Нура",
+      "address": "Астана, Нура район, ул. Кунаева 2",
+      "furniture": ["Кухня"],
+      "image": "/images/house5.jpg"
+    },
+    {
+      "id": 6,
+      "area": 110,
+      "rooms": 4,
+      "district": "Есильский",
+      "address": "Астана, Есильский район, ул. Сыганак 18",
+      "furniture": ["Кухня", "Шкаф", "Кровать", "Диван"],
+      "image": "/images/house6.jpg"
+    },
+    {
+      "id": 7,
+      "area": 55,
+      "rooms": 2,
+      "district": "Нура",
+      "address": "Астана, Нура район, ул. Орынбор 12",
+      "furniture": ["Шкаф", "Диван"],
+      "image": "/images/house7.jpg"
+    },
+    {
+      "id": 8,
+      "area": 78,
+      "rooms": 3,
+      "district": "Алматинский",
+      "address": "Астана, Алматинский район, ул. Пушкина 5",
+      "furniture": ["Кухня", "Стол", "Стиралка"],
+      "image": "/images/house8.jpg"
+    },
+    {
+      "id": 9,
+      "area": 92,
+      "rooms": 3,
+      "district": "Сарыарка",
+      "address": "Астана, Сарыарка район, ул. Жангельдина 20",
+      "furniture": ["Кровать", "Шкаф", "Диван"],
+      "image": "/images/house9.jpg"
+    },
+    {
+      "id": 10,
+      "area": 130,
+      "rooms": 5,
+      "district": "Байконур",
+      "address": "Астана, Байконур район, ул. Абая 30",
+      "furniture": ["Кухня", "Шкаф", "Кровать", "Диван", "Стол"],
+      "image": "/images/house10.jpg"
+    }
+  ]
+  
+  
