@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Realty Filters (Astana)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vue 3 + Vuetify demo project: apartment search with filters and “Liked” page.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+- Filters: district (multi), rooms (multi), area range, furniture (multi)
+- Apartments stored in local `JSON` file
+- Like/unlike apartments (saved in `localStorage`)
+- Two pages: All / Liked
+- Responsive layout (mobile / tablet / desktop)
+
+## Tech Stack
+- Vue 3 + Vite
+- Vuetify 3
+- Vue Router
+
+## Requirements
+- Node.js (v20+ recommended)
+- npm
+
+## Installation
+```bash
+git clone https://github.com/<YOUR_USERNAME>/realty-filters.git
+cd realty-filters
+npm install
+npm run dev
